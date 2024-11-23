@@ -1,0 +1,61 @@
+{
+  "blogs": [
+    {
+      "id": "63c1c10d-10bb-45c7-9c57-a20bc22a086a",
+      "title": "iphone 15 Pro Max",
+      "content": "Çok iyi  telefon....................................................",
+      "image": "blog.png",
+      "categoryId": "1",
+      "userName": "yusuf",
+      "createdDate": "23.11.2024"
+    },
+    {
+      "id": "469036ec-06b7-4ffb-ba17-5fc92c2b1084",
+      "title": "İphone 16 ",
+      "content": "baya iyi telefon.............................",
+      "image": "blog.png",
+      "categoryId": "1",
+      "userName": "yusufgtk",
+      "createdDate": "23.11.2024"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Teknoloji",
+      "image": ""
+    },
+    {
+      "id": "2",
+      "name": "Bilim",
+      "image": ""
+    },
+    {
+      "id": "3",
+      "name": "Sanat",
+      "image": ""
+    },
+    {
+      "id": "4",
+      "name": "Finans",
+      "image": ""
+    }
+  ],
+  "users": [
+    {
+      "id": "fe39",
+      "userName": "yusufgtk",
+      "password": "yusufgtk"
+    },
+    {
+      "id": "2af7",
+      "userName": "yusuf",
+      "password": "yusuf"
+    },
+    {
+      "id": "7044",
+      "userName": "yusuf123",
+      "password": "yusuf123"
+    }
+  ]
+}
